@@ -1,0 +1,4 @@
+Program v danem monochromatickem obrazku hleda nejdelsi vodorovne a svisle
+usecky a nejvetsi ctverce. Obrazek je ulozen jako bitmapa v textovem souboru
+ve forme obdelnikove matice nul a jednicek. Cilem programu je vypis pocatecni
+a koncove souradnice nalezene usecky nebo ctverce.
